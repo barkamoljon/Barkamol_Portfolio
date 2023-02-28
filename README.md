@@ -122,7 +122,7 @@ Overall, the project provides a good example of how to use machine learning algo
 * __Algorithms__: regression(logistic, linear), Decision trees, TransformerMixin, Gradient boosting, metrics(RMSE, MSE)
 * __Dataset Source__: https://github.com/anvarnarz/praktikum_datasets/blob/main/housing_data_08-02-2021.csv
 
-## [Project 8: Credit Risk Modeling](https://github.com/barkamoljon/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb)
+## [Project 8: Amazon Web Scraper Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb)
 
 ## Overview
 The project focuses on web scraping Amazon product data using Python. The project begins by importing necessary libraries such as BeautifulSoup, requests, and pandas.
