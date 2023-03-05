@@ -53,7 +53,7 @@ The project demonstrates skills and knowledge in SQL, data cleaning and preparat
 
 ## Requirements
 * __Microsoft SQL Server Version__: 18.12.1
-* __Packages__: tableau, microsoft sql, sql queries
+* __Packages__: tableau, microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/airbnb-listings-2016
 
 
@@ -75,7 +75,7 @@ Overall, the project provides a good example of how SQL can be used to analyze a
 
 ## Requirements
 * __Microsoft SQL Server Version__: 18.12.1
-* __Packages__: tableau, microsoft sql, sql queries
+* __Packages__: tableau, microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/covid19
 
 
@@ -96,7 +96,7 @@ Overall, the project provides a good example of how to use SQL queries to clean 
 
 ## Requirements
 * __Microsoft SQL Server Version__: 18.12.1
-* __Packages__: microsoft sql, sql queries
+* __Packages__: microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/nashville-dataset
 
 ## [Project 7: House Price Prediction](https://github.com/barkamoljon/PortfolioProjects/blob/main/House_Price_Prediction.ipynb)
