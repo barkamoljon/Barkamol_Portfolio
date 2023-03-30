@@ -78,8 +78,64 @@ Overall, the project provides a good example of how SQL can be used to analyze a
 * __Packages__: tableau, microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/covid19
 
+## [Project 6: Resume Parser with NLP](https://github.com/barkamoljon/Resume_Parser)
 
-## [Project 6: Data Cleaning Portfolio Project Queries](https://github.com/barkamoljon/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql)
+## Overview
+The Resume Parser with NLP is a program that uses natural language processing (NLP) to extract essential information from resumes. The program receives resumes in PDF format, and it processes them using several NLP techniques to extract personal and professional details such as name, email, phone number, work experience, education, skills, and other relevant information.
+
+The program uses several Python libraries such as spaCy, PyPDF2, and Regex to perform NLP tasks such as tokenization, parsing, named-entity recognition, and information extraction. It also uses machine learning models to classify the information and extract specific details. 
+
+The program is designed to automate the resume screening process, making it more efficient and accurate. It can be used by HR departments or recruitment agencies to quickly identify the most promising candidates and filter out irrelevant applications. 
+
+Overall, the Resume Parser with NLP is a powerful tool that streamlines the recruitment process and helps organizations find and hire the best candidates for their open positions.
+
+## Requirements
+* __Python Version__: 3.9.6
+* __Packages__: pandas, numpy, spacy, gradio, json, pypdf2, fitz, and sklearn
+* __Algorithms__: neaural network, nlp
+* __Dataset Source__:  https://www.kaggle.com/datasets/dataturks/resume-entities-for-ner
+
+https://www.kaggle.com/code/caglarhekimci/time-series-forecasting-fb-prophet/input
+
+## [Project 7: ChatBot](https://github.com/barkamoljon/PortfolioProjects/tree/0dd26d1e938c06592f8a1289d04a0a7c7beb7f3b/Developer%20ChatBot%20with%20ChatGPT%20API)
+
+##Overview
+The "Developer ChatBot with ChatGPT API" is a project that aims to develop a chatbot using the ChatGPT API to assist developers with their programming-related queries. The project is developed in a Jupyter Notebook, which allows for easy implementation and execution of the code.
+
+The chatbot is implemented using a while loop, which keeps running until the user types "bye" to end the conversation. The ChatGPT API is used to generate the responses of the chatbot. To use the API, you need to send a POST request to the API endpoint with the user's input as the query parameter. The API returns a JSON object containing the response of the chatbot, which is then displayed to the user.
+
+The project is a valuable tool for any programming community as it provides instant solutions to users' queries. It can be customized to suit different requirements, making it an excellent tool for developers who want to create a chatbot to help other developers. Overall, the "Developer ChatBot with ChatGPT API" project is an excellent example of how machine learning can be used to develop intelligent chatbots to assist users with their queries.
+
+## Requirements
+* __Python Version__: 3.9.6
+* __Packages__: gradio, and openai
+* __Algorithms__: OpenAI's GPT-3
+
+## [Project 8: Time Series Forecasting](https://github.com/barkamoljon/PortfolioProjects/tree/main/Time%20Series%20Forecasting)
+
+## Overview
+Overview of Time Series Forecasting using FBProphet.ipynb:
+
+The goal of this project is to demonstrate time series forecasting using the FBProphet library in Python. The dataset used in the project is the daily number of passengers for an airline company, spanning from 1949 to 1960. The project involves data preprocessing, visualization, modeling, forecasting, and evaluation of the model.
+
+In data preprocessing, the "Month" column is parsed, the columns are renamed, and the "Passengers" column is converted to a numeric type. In data visualization, the time series data is plotted to visualize the trend and seasonality.
+
+In modeling, a Prophet model is created and fit to the data. The model is trained on the first 80% of the data and tested on the remaining 20%. In forecasting, the model is used to forecast the number of passengers for the next few years.
+
+In evaluation, the performance of the model is evaluated using various metrics such as mean absolute error, mean squared error, and root mean squared error. In visualization, the forecasted data is plotted along with the historical data to visualize the accuracy of the model.
+
+The project demonstrates that FBProphet can be used to effectively forecast time series data. The model accurately captures the trend and seasonality of the data and provides valuable insights for decision-making. The notebook can be used as a guide for those interested in learning how to use FBProphet for time series forecasting.
+
+
+## Requirements
+* __Python Version__: 3.9.6
+* __Packages__: pandas, numpy, matplotlib, seaborn, sklearn, fbprophet, and pystan
+* __Algorithms__: metrics(mean_absolute_error)
+* __Dataset Source__: https://www.kaggle.com/code/caglarhekimci/time-series-forecasting-fb-prophet
+
+
+
+## [Project 9: Data Cleaning Portfolio Project Queries](https://github.com/barkamoljon/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql)
 
 ## Overview
 The project titled "Data Cleaning Portfolio Project Queries" is a SQL-based project that focuses on data cleaning and data manipulation. The project begins by importing data into a SQL database, followed by data cleaning and pre-processing using various SQL queries.
@@ -99,7 +155,7 @@ Overall, the project provides a good example of how to use SQL queries to clean 
 * __Packages__: microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/nashville-dataset
 
-## [Project 7: House Price Prediction](https://github.com/barkamoljon/PortfolioProjects/blob/main/House_Price_Prediction.ipynb)
+## [Project 10: House Price Prediction](https://github.com/barkamoljon/PortfolioProjects/blob/main/House_Price_Prediction.ipynb)
 
 ## Overview
 The project titled "House Price Prediction" is a Jupyter Notebook-based project that focuses on predicting house prices using various machine learning algorithms. It begins with importing and exploring a dataset of house prices, followed by data cleaning and pre-processing.
@@ -122,7 +178,7 @@ Overall, the project provides a good example of how to use machine learning algo
 * __Algorithms__: regression(logistic, linear), Decision trees, TransformerMixin, Gradient boosting, metrics(RMSE, MSE)
 * __Dataset Source__: https://github.com/anvarnarz/praktikum_datasets/blob/main/housing_data_08-02-2021.csv
 
-## [Project 8: Amazon Web Scraper Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb)
+## [Project 11: Amazon Web Scraper Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb)
 
 ## Overview
 The project focuses on web scraping Amazon product data using Python. The project begins by importing necessary libraries such as BeautifulSoup, requests, and pandas.
@@ -139,7 +195,7 @@ Overall, the project provides a good example of how to use web scraping techniqu
 * __Dataset Source__: https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/ref=sr_1_1?crid=10QFPWPXWB3D9&keywords=math+for+machine+learning&qid=1677503609&sprefix=MAth+for+machi%2Caps%2C701&sr=8-1
 
 
-## [Project 9: Movie Portfolio Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)
+## [Project 12: Movie Portfolio Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)
 
 ## Overview
 The project focuses on analyzing a dataset of movie ratings and reviews using Python. The project begins by importing necessary libraries such as pandas, matplotlib, and seaborn.
