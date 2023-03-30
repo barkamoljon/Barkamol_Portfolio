@@ -56,6 +56,23 @@ The project demonstrates skills and knowledge in SQL, data cleaning and preparat
 * __Packages__: tableau, microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/airbnb-listings-2016
 
+## [Project 5: Data Cleaning in SQL Queries(https://github.com/barkamoljon/PortfolioProjects/blob/main/Data%20Cleaning%20with%20SQL%20Queries.sql)
+
+## Overview
+Data cleaning is a crucial step in the data analysis process, and it involves identifying and correcting errors, inconsistencies, and inaccuracies in data. The SQL script in this project provides a set of queries that can be used to perform various data cleaning tasks.
+
+The script is well-organized and divided into sections that correspond to specific data cleaning tasks. For example, the section on handling missing data provides queries for identifying and handling missing values in a dataset. Similarly, the section on data type conversions provides queries for converting data from one data type to another.
+
+One of the strengths of this project is that it covers a wide range of data cleaning tasks. The queries provided can be used to remove duplicates, standardize data, and address inconsistencies in data. The queries are also customizable, allowing users to modify them to suit their specific needs.
+
+Overall, the "Data Cleaning SQL Queries" project is a valuable resource for anyone working with data in SQL. The queries provided can save time and effort by automating many data cleaning tasks and ensuring that data is accurate and ready for analysis. The project is a testament to the importance of data cleaning and the power of SQL as a tool for managing and manipulating data.
+
+## Requirements
+* __Microsoft SQL Server Version__: 18.12.1
+* __Packages__: tableau, microsoft sql server, sql queries
+* __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/nashville-dataset
+
+
 
 ## [Project 5: COVID Portfolio Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql)
 
