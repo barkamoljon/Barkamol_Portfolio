@@ -95,7 +95,6 @@ Overall, the Resume Parser with NLP is a powerful tool that streamlines the recr
 * __Algorithms__: neaural network, nlp
 * __Dataset Source__:  https://www.kaggle.com/datasets/dataturks/resume-entities-for-ner
 
-https://www.kaggle.com/code/caglarhekimci/time-series-forecasting-fb-prophet/input
 
 ## [Project 7: ChatBot](https://github.com/barkamoljon/PortfolioProjects/tree/0dd26d1e938c06592f8a1289d04a0a7c7beb7f3b/Developer%20ChatBot%20with%20ChatGPT%20API)
 
