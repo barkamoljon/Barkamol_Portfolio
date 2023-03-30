@@ -56,7 +56,7 @@ The project demonstrates skills and knowledge in SQL, data cleaning and preparat
 * __Packages__: tableau, microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/airbnb-listings-2016
 
-## [Project 5: Data Cleaning in SQL Queries] (https://github.com/barkamoljon/PortfolioProjects/blob/main/Data%20Cleaning%20with%20SQL%20Queries.sql)
+## [Project 5: Data Cleaning in SQL Queries](https://github.com/barkamoljon/PortfolioProjects/blob/main/Data%20Cleaning%20with%20SQL%20Queries.sql)
 
 ## Overview
 Data cleaning is a crucial step in the data analysis process, and it involves identifying and correcting errors, inconsistencies, and inaccuracies in data. The SQL script in this project provides a set of queries that can be used to perform various data cleaning tasks.
