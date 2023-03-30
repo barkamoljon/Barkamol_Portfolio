@@ -98,7 +98,7 @@ Overall, the Resume Parser with NLP is a powerful tool that streamlines the recr
 
 ## [Project 7: ChatBot](https://github.com/barkamoljon/PortfolioProjects/tree/0dd26d1e938c06592f8a1289d04a0a7c7beb7f3b/Developer%20ChatBot%20with%20ChatGPT%20API)
 
-##Overview
+## Overview
 The "Developer ChatBot with ChatGPT API" is a project that aims to develop a chatbot using the ChatGPT API to assist developers with their programming-related queries. The project is developed in a Jupyter Notebook, which allows for easy implementation and execution of the code.
 
 The chatbot is implemented using a while loop, which keeps running until the user types "bye" to end the conversation. The ChatGPT API is used to generate the responses of the chatbot. To use the API, you need to send a POST request to the API endpoint with the user's input as the query parameter. The API returns a JSON object containing the response of the chatbot, which is then displayed to the user.
