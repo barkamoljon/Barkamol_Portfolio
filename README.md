@@ -140,7 +140,7 @@ The project is a valuable tool for any programming community as it provides inst
 ## Overview
 Overview of Time Series Forecasting using FBProphet.ipynb:
 
-The goal of this project is to demonstrate time series forecasting using the FBProphet library in Python. The dataset used in the project is the daily number of passengers for an airline company, spanning from 1949 to 1960. The project involves data preprocessing, visualization, modeling, forecasting, and evaluation of the model.
+The goal of this project is to demonstrate time series forecasting using the FBProphet library in Python. The dataset used in the project is the daily number of passengers for an airline company, spanning from 2018 to 2020. The project involves data preprocessing, visualization, modeling, forecasting, and evaluation of the model.
 
 In data preprocessing, the "Month" column is parsed, the columns are renamed, and the "Passengers" column is converted to a numeric type. In data visualization, the time series data is plotted to visualize the trend and seasonality.
 
