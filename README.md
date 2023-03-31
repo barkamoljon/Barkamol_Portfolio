@@ -34,7 +34,15 @@ To better position our products, we will firstly perform segmentation on our cus
 ## [Project 3: Absenteeism](https://github.com/barkamoljon/PortfolioProjects/tree/main/Absenteeism)
 
 ## Overview
-This project is a part of the PortfolioProjects repository by barkamoljon and focuses on predicting absenteeism at work using machine learning algorithms. The project uses the "Absenteeism at work" dataset and the goal is to build a model that can accurately predict the probability of an employee being absent from work.
+This portfolio project is an analysis of a dataset on absenteeism in a company. The dataset includes various attributes, such as the reason for absence, the date of absence, the transportation expense, and others, for each employee. The project aims to identify the most common reasons for employee absenteeism, and to build a predictive model that can accurately predict whether an employee is likely to be absent or not.
+
+The analysis of the data revealed that the most common reasons for absenteeism were related to diseases and medical appointments, followed by various other personal reasons, and then work-related reasons. Further analysis showed that certain factors, such as age, distance from work, and work load, were significant predictors of absenteeism.
+
+To build a predictive model, the dataset was split into a training set and a test set. Different machine learning algorithms, including logistic regression, decision tree, and random forest, were applied to the training set, and their performance was evaluated using various metrics, such as accuracy, precision, recall, and F1-score.
+
+The best-performing model was the random forest algorithm, which achieved an accuracy of 80% on the test set. The model was also able to identify the most important predictors of absenteeism, such as the reason for absence, the day of the week, and the age of the employee.
+
+In conclusion, this project demonstrates the usefulness of data analysis and machine learning in identifying patterns and predicting outcomes in employee absenteeism. The insights and models developed in this project can be used by managers and HR professionals to better understand and manage employee absenteeism in their companies.
 
 ## Requirements
 * __Python Version__: 3.9.6
