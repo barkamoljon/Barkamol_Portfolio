@@ -197,13 +197,9 @@ Overall, the project provides a good example of how to use machine learning algo
 ## [Project 12: Amazon Web Scraper Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb)
 
 ## Overview
-The project focuses on web scraping Amazon product data using Python. The project begins by importing necessary libraries such as BeautifulSoup, requests, and pandas.
-
-The author then proceeds to scrape Amazon product data such as product names, prices, ratings, and reviews from a specific category using web scraping techniques. The scraped data is then pre-processed and cleaned to ensure that it is in a format suitable for analysis.
-
-The author uses various data visualization techniques to help better understand the data, such as creating bar charts, line graphs, and heatmaps. The project also includes examples of how to use statistical analysis to gain insights from the data, such as calculating mean, median, and mode.
-
-Overall, the project provides a good example of how to use web scraping techniques to extract data from Amazon and may be useful for anyone interested in data analysis, web scraping, or e-commerce. However, it should be noted that web scraping Amazon data may be against Amazon's terms of service, so caution should be exercised when attempting to replicate this project.
+The Amazon Web Scraper Project is a Python-based project that focuses on scraping data from Amazon's website using the BeautifulSoup library. 
+It can automatically extract product data from Amazon 86,400 times a day through Python libraries and generate product Dataset
+The project involves collecting information on product names, prices, ratings, and descriptions from Amazon's Best Sellers page. The data collected is then stored in a CSV file for future analysis. The code is heavily commented, making it easy for beginners to understand, and provides ample opportunities for customization or further development. The project is an excellent way to learn about web scraping, data handling, and Python programming as a whole. By the end of the project, developers will have gained a valuable skillset that they can apply to numerous other projects.
 
 ## Requirements
 * __Python Version__: 3.9.6
