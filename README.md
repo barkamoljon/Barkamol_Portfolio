@@ -64,7 +64,15 @@ The project demonstrates skills and knowledge in SQL, data cleaning and preparat
 * __Packages__: tableau, microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/airbnb-listings-2016
 
-## [Project 5: Data Cleaning in SQL Queries](https://github.com/barkamoljon/PortfolioProjects/blob/main/Data%20Cleaning%20with%20SQL%20Queries.sql)
+## [Project 5: Tableau Dashboard](https://public.tableau.com/app/profile/barkamol)
+
+## Overview
+The Tableau Public profile of "barkamol" showcases a collection of data visualizations and dashboards created by the author. The visualizations cover a variety of topics, including finance, marketing, and sports. The author uses Tableau's powerful visualization tools to create interactive dashboards that allow users to explore and analyze data in an intuitive and engaging way. The visualizations incorporate various chart types such as bar charts, scatterplots, and maps to effectively communicate insights and trends in the data. The profile provides valuable insights into the author's data visualization skills and demonstrates their ability to create compelling and informative data stories using Tableau.
+
+## Requirement
+* __Packages__: tableau
+
+## [Project 6: Data Cleaning in SQL Queries](https://github.com/barkamoljon/PortfolioProjects/blob/main/Data%20Cleaning%20with%20SQL%20Queries.sql)
 
 ## Overview
 Data cleaning is a crucial step in the data analysis process, and it involves identifying and correcting errors, inconsistencies, and inaccuracies in data. The SQL script in this project provides a set of queries that can be used to perform various data cleaning tasks.
@@ -80,9 +88,16 @@ Overall, the "Data Cleaning SQL Queries" project is a valuable resource for anyo
 * __Packages__: tableau, microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/nashville-dataset
 
+## [Project 7: Power BI Dashboard](https://sg.docs.wps.com/l/sIPKrosO_AeS5uJ4G)
+
+## Overview
+How do data workers make money, which continent earns more money, are they satisfied with the money they are being paid, what programming language do they use, what is their level of data complexity, what is their life-work balance, and similar questions. If you want to find an answer, I recommend you to refer to this dashboard.
+
+## Requirement
+* __Packages__: power bi
 
 
-## [Project 6: COVID Portfolio Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql)
+## [Project 8: COVID Portfolio Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql)
 
 ## Overview
 The project is titled "COVID Portfolio Project - Data Exploration" and the code is written in SQL language. The main objective of the project is to explore and analyze COVID-19 data using various SQL queries and visualizations.
@@ -102,8 +117,8 @@ Overall, the project provides a good example of how SQL can be used to analyze a
 * __Microsoft SQL Server Version__: 18.12.1
 * __Packages__: tableau, microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/covid19
-
-## [Project 7: Resume Parser with NLP](https://github.com/barkamoljon/Resume_Parser)
+/
+## [Project 9: Resume Parser with NLP](https://github.com/barkamoljon/Resume_Parser)
 
 ## Overview
 The Resume Parser with NLP is a program that uses natural language processing (NLP) to extract essential information from resumes. The program receives resumes in PDF format, and it processes them using several NLP techniques to extract personal and professional details such as name, email, phone number, work experience, education, skills, and other relevant information.
@@ -121,7 +136,17 @@ Overall, the Resume Parser with NLP is a powerful tool that streamlines the recr
 * __Dataset Source__:  https://www.kaggle.com/datasets/dataturks/resume-entities-for-ner
 
 
-## [Project 8: ChatBot](https://github.com/barkamoljon/PortfolioProjects/tree/0dd26d1e938c06592f8a1289d04a0a7c7beb7f3b/Developer%20ChatBot%20with%20ChatGPT%20API)
+## [Project 10: Bike Sales Dashboard with Excel](https://sg.docs.wps.com/l/sIOWrosO_AYaOgJ0G)
+
+## Overview
+Which gender rides a bicycle more often, which continent, and whether they are married or not, how much it depends on the level of education (bachelor etc). We can find answers to these and similar questions through this dashboard.
+
+
+## Requirement
+* __Packages__: excel
+
+## [Project 11: Chatbot](https://github.com/barkamoljon/PortfolioProjects/tree/0dd26d1e938c06592f8a1289d04a0a7c7beb7f3b/Developer%20ChatBot%20with%20ChatGPT%20API)
+
 
 ## Overview
 The "Developer ChatBot with ChatGPT API" is a project that aims to develop a chatbot using the ChatGPT API to assist developers with their programming-related queries. The project is developed in a Jupyter Notebook, which allows for easy implementation and execution of the code.
@@ -135,7 +160,7 @@ The project is a valuable tool for any programming community as it provides inst
 * __Packages__: gradio, and openai
 * __Algorithms__: OpenAI's GPT-3
 
-## [Project 9: Time Series Forecasting](https://github.com/barkamoljon/PortfolioProjects/tree/main/Time%20Series%20Forecasting)
+## [Project 12: Time Series Forecasting](https://github.com/barkamoljon/PortfolioProjects/tree/main/Time%20Series%20Forecasting)
 
 ## Overview
 Overview of Time Series Forecasting using FBProphet.ipynb:
@@ -159,7 +184,7 @@ The project demonstrates that FBProphet can be used to effectively forecast time
 
 
 
-## [Project 10: Data Cleaning Portfolio Project Queries](https://github.com/barkamoljon/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql)
+## [Project 13: Data Cleaning Portfolio Project Queries](https://github.com/barkamoljon/PortfolioProjects/blob/main/Data%20Cleaning%20Portfolio%20Project%20Queries.sql)
 
 ## Overview
 The project titled "Data Cleaning Portfolio Project Queries" is a SQL-based project that focuses on data cleaning and data manipulation. The project begins by importing data into a SQL database, followed by data cleaning and pre-processing using various SQL queries.
@@ -179,7 +204,7 @@ Overall, the project provides a good example of how to use SQL queries to clean 
 * __Packages__: microsoft sql server, sql queries
 * __Dataset Source__: https://www.kaggle.com/datasets/barkamolurinboev/nashville-dataset
 
-## [Project 11: House Price Prediction](https://github.com/barkamoljon/PortfolioProjects/blob/main/House_Price_Prediction.ipynb)
+## [Project 14: House Price Prediction](https://github.com/barkamoljon/PortfolioProjects/blob/main/House_Price_Prediction.ipynb)
 
 ## Overview
 The project titled "House Price Prediction" is a Jupyter Notebook-based project that focuses on predicting house prices using various machine learning algorithms. It begins with importing and exploring a dataset of house prices, followed by data cleaning and pre-processing.
@@ -202,7 +227,7 @@ Overall, the project provides a good example of how to use machine learning algo
 * __Algorithms__: regression(logistic, linear), Decision trees, TransformerMixin, Gradient boosting, metrics(RMSE, MSE)
 * __Dataset Source__: https://github.com/anvarnarz/praktikum_datasets/blob/main/housing_data_08-02-2021.csv
 
-## [Project 12: Amazon Web Scraper Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb)
+## [Project 15: Amazon Web Scraper Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/Amazon%20Web%20Scraper%20Project.ipynb)
 
 ## Overview
 The Amazon Web Scraper Project is a Python-based project that focuses on scraping data from Amazon's website using the BeautifulSoup library. 
@@ -215,7 +240,7 @@ The project involves collecting information on product names, prices, ratings, a
 * __Dataset Source__: https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/ref=sr_1_1?crid=10QFPWPXWB3D9&keywords=math+for+machine+learning&qid=1677503609&sprefix=MAth+for+machi%2Caps%2C701&sr=8-1
 
 
-## [Project 13: Movie Portfolio Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)
+## [Project 16: Movie Portfolio Project](https://github.com/barkamoljon/PortfolioProjects/blob/main/Movie%20Portfolio%20Project.ipynb)
 
 ## Overview
 The project focuses on analyzing a dataset of movie ratings and reviews using Python. The project begins by importing necessary libraries such as pandas, matplotlib, and seaborn.
